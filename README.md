@@ -46,21 +46,26 @@ Instalar dependecias
 pip install -r requirements.txt
 ```
 
-##Ejecutar el programa
+### Ejecutar el programa
 Una vez activado el entorno y las dependencias instaladas, puedes ejecutar el programa con:
 
 ```bash
 python main.py
 ```
-#Diagrama de Flujo 
+## Diagrama de Flujo 
 ![Diagrama sin título drawio](https://github.com/nexbox09/pensamiento/assets/68700670/457480ae-7fb4-418c-b26c-57f058232f2c)
 
-#Resultados esperados
+## Resultados esperados
 Al correr el programa, se realizarán las siguientes acciones:
 
 Solicitud de Datos Personales: El programa pedirá al niño ingresar su nombre, edad y color favorito.
 Narrativa Interactiva: La historia se presentará en una ventana de Turtle, con texto y gráficos que cambian en función de las interacciones del usuario.
 Decisiones de Continuación: En varios puntos, se preguntará al niño si desea continuar con la siguiente parte de la historia.
 Conclusión de la Historia: Al finalizar, se mostrará un mensaje de agradecimiento y el programa concluirá, cerrando automáticamente la ventana.
+
+![image](https://github.com/nexbox09/pensamiento/assets/68700670/d980c022-8e27-493b-abcf-aac46d88bbe3)
+
+
+Proyecto Elaborado por Sara Chacón para la clase de pensamiento computacional.
 
 
